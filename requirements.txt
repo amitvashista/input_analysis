@@ -1,0 +1,8 @@
+pandas
+scipy
+matplotlib
+numpy
+scipy
+matplotlib
+fitter
+csv
